@@ -1,0 +1,8 @@
+{
+  "name": "stepper",
+  "version": "1.0.0",
+  "description": "Step through every change Claude made, one at a time, with pagination dots, the diff and an optional plain-English explanation.",
+  "author": { "name": "spacewitch123" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "stepper",
+  "description": "Stepper: step through Claude's changes one at a time.",
+  "owner": { "name": "spacewitch123" },
+  "plugins": [{ "name": "stepper", "source": "./" }]
+}
